@@ -7,17 +7,14 @@
 - 🥰Python Lover
 - ⚜️Most Of My Repositories Are For Telegram  
 - 📫 How to reach me: [Amani Muhammed](https://telegram.me/Amani_m_h_d)
-- ⚡ Fun fact: im a noob
+- ⚡ Fun fact: i'm a noob
 -->
 
 ### Available 👇
 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/amanimuhammed/&title=Profile%20Views)
-
-
 #### 
-[![telegram badge](https://img.shields.io/badge/@AmaniMuhammed-30302f?style=for-the-badge&logo=telegram)](https://t.me/Amani_m_h_d)
+[![telegram badge](https://img.shields.io/badge/AmaniMuhammed-30302f?style=for-the-badge&logo=telegram)](https://t.me/Amani_m_h_d)
 [![mailid badge](https://img.shields.io/badge/AmaniMuhammed-30302f?style=for-the-badge&logo=gmail)](mailto:rajihamani@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmaniMuhammed&label=Profile%20Views&color=orange&style=flat-square" alt="AmaniMuhammed" /> </p>
 
@@ -39,4 +36,4 @@
 </p>
 
 ## Donate Me:
-[![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://t.me/Amani_m_h_d)
+[![Donate](https://img.shields.io/badge/Donate%20Us-Telegram-orange?style=for-the-badge)](https://t.me/Amani_m_h_d)
