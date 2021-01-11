@@ -2,12 +2,12 @@
 ### About 🙋🏻‍♂️
 
 - 🌱 I’m currently studying
-- 👨‍💻 I’m trying to learn programming.
-- 😄I'm Still Learning Git & GitHub
+- 👨‍💻 I’m trying to learn programming.Now only know some basics
+- 😄I'm Still Learning GitHub
 - 🥰Python Lover
 - ⚜️Most Of My Repositories Are For Telegram  
 - 📫 How to reach me: [Amani Muhammed](https://telegram.me/Amani_m_h_d)
-- ⚡ Fun fact: i'm a noob
+- ⚡ Fun fact: i'm a noobier than you
 -->
 
 ### Available 👇
